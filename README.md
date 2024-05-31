@@ -1,6 +1,8 @@
 # CommentorAI: Manage user comments and reply with AI on your wordpress site
 
-Comments Reply with GPT (OpenAI) is a plugin that uses OpenAI's GPT to automatically reply to comments on your WordPress website. This plugin adds a "Reply with WPWM OpenAI" button to each comment's actions, which, when clicked, sends the comment text to OpenAI's ChatGPT API and returns a suggested response.
+Comments Reply with GPT (OpenAI) is a plugin that uses OpenAI's GPT to automatically reply to comments on your WordPress website. 
+The plugins auto detects sentiments of comments and auto filters + removes spam comments and comments with curses or bad lanaguge.
+This plugin adds a "Reply with AI" button to each comment's actions, which, when clicked, sends the comment text to OpenAI's ChatGPT API and returns a suggested response.
 
 ## Jump straight to:
 - [Installation](#installation)
