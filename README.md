@@ -4,6 +4,8 @@ Comments Reply with GPT (OpenAI) is a plugin that uses OpenAI's GPT to automatic
 The plugins auto detects sentiments of comments and auto filters + removes spam comments and comments with curses or bad lanaguge.
 This plugin adds a "Reply with AI" button to each comment's actions, which, when clicked, sends the comment text to OpenAI's ChatGPT API and returns a suggested response.
 
+![What-Does-AI-Mean-for-WordPress-Users-Header-1](https://github.com/Chaitanyarai899/CommentorAI-wordpressPlugin/assets/95732261/da007ebc-3784-492f-ba4d-b7820c5b6012)
+
 ## Jump straight to:
 - [Installation](#installation)
 - [Plugin Options and Settings](#plugin-options-and-settings)
