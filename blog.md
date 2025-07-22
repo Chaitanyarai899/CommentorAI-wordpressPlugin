@@ -90,13 +90,13 @@ Transparency was a core design principle for us. We believe developers should se
 - Container initialization status
 - Network configuration details
 
+![Control panel](https://github.com/user-attachments/assets/07ef4c30-520f-4467-95d8-6161b50eccc7)
+
 This isn't just nice-to-have UI polish – it's essential for debugging and building confidence in the platform.
 
 ### Step 6: Production-Ready APIs in Seconds
 
 When your deployment completes, you don't just get a running model – you get a production-grade API with monitoring, error handling, and OpenAI compatibility built in.
-
-![Control panel](https://github.com/user-attachments/assets/07ef4c30-520f-4467-95d8-6161b50eccc7)
 
 **What every deployment includes**:
 - **OpenAI-compatible endpoints**: Drop-in replacement for existing integrations
