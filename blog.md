@@ -72,7 +72,9 @@ Advanced users can still customize everything, but beginners get production-read
 
 ### Step 4: Transaction Approval
 You'll see a pop-up on your screen. Just click approve:                                      
-<img width="346" height="617" alt="image" src="https://github.com/user-attachments/assets/ca916818-b428-4e34-b46a-51245cc1c4e5" />
+
+<img width="346" height="617" alt="image" src="https://github.com/user-attachments/assets/ca916818-b428-4e34-b46a-51245cc1c4e5" />                       
+
 Any remaining balance is reverted to your wallet if you decide to close the deployment prematurely.
 
 ### Step 5: Real-Time Deployment Monitoring
