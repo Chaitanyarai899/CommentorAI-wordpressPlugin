@@ -70,16 +70,10 @@ This is where our platform really shines. Instead of presenting users with dozen
 
 Advanced users can still customize everything, but beginners get production-ready configurations out of the box.
 
-### Step 4: Instant Infrastructure Provisioning
-
-Here's where the real magic happens. Traditional deployment platforms provision resources after you request them. We pre-warm infrastructure and use intelligent caching to eliminate cold starts.
-
-![Deployment confirmation](https://github.com/user-attachments/assets/4e2f854e-aff3-4581-bb55-dc84055af27c)
-
-**Technical architecture highlights**:
-- **Pre-warmed containers**: Popular models are already loaded and ready to go
-- **Distributed model cache**: Frequently used models are cached across multiple regions  
-- **Optimized networking**: We've fine-tuned everything from container startup to model loading
+### Step 4: Transaction Approval
+You'll see a pop-up on your screen. Just click approve:                                      
+<img width="346" height="617" alt="image" src="https://github.com/user-attachments/assets/ca916818-b428-4e34-b46a-51245cc1c4e5" />
+Any remaining balance is reverted to your wallet if you decide to close the deployment prematurely.
 
 ### Step 5: Real-Time Deployment Monitoring
 
@@ -181,26 +175,6 @@ Prototype and validate AI solutions quickly, then scale with confidence using ou
 ### Educators and Students
 Learn AI development without getting stuck on deployment complexity. Affordable pricing for educational use.
 
-## What's on Our Roadmap
-
-We're just getting started. Here's what we're working on:
-
-### Short Term (Next 3 months)
-- **Expanded model catalog**: More families, including specialized computer vision and audio models
-- **Enhanced monitoring**: Detailed analytics, custom alerts, and performance insights
-- **Team collaboration**: Shared deployments, usage tracking, and billing management
-
-### Medium Term (6-12 months)  
-- **Multi-provider support**: Choose your preferred infrastructure provider
-- **Auto-scaling**: Automatically adjust resources based on demand
-- **Custom model support**: Deploy your own fine-tuned models
-- **Geographic distribution**: Deploy closer to your users for lower latency
-
-### Long Term (12+ months)
-- **Enterprise SSO**: Integration with corporate identity systems
-- **Advanced security**: VPC deployments, private networking, compliance certifications
-- **API marketplace**: Discover and integrate third-party AI services
-- **Development tools**: SDKs, CLI tools, and CI/CD integrations
 
 ## Join Us in Reimagining AI Deployment
 
