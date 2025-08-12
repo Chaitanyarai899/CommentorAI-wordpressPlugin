@@ -1,3 +1,15 @@
+---
+title: "From Vision to Reality: How Nosana Helped Us Build Inferia"
+description: "The story behind building the fastest AI model deployment platform"
+author:
+  name: "The Inferia Team"
+  image: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&h=100&fit=crop&crop=face"
+  bio: "Building the infrastructure layer for the AI-powered future"
+image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop"
+date: "2024-12-20"
+tags: ["AI", "Deployment", "Infrastructure", "Partnership", "Nosana"]
+---
+
 # From Vision to Reality: How Nosana Helped Us Build Inferia
 
 *The story behind building the fastest AI model deployment platform*
@@ -31,8 +43,11 @@ Here's where we need to give credit where it's due. When we reached out to the N
 The support included:
 
 **Compute Resources:** Access to the GPU power we needed for development and testing without worrying about costs spiraling out of control
+
 **Technical Guidance:** Real help integrating with their network, not just generic support tickets
+
 **Development Freedom:** The flexibility to experiment and iterate without constantly watching our spend
+
 **Community Connection:** Getting plugged into their developer community
 
 But honestly, the biggest thing was just having infrastructure partners who actually wanted to see us succeed. That's rarer than it should be.
@@ -44,8 +59,11 @@ Working with Nosana's setup taught us something important: decentralized infrast
 What we discovered:
 
 **Better Economics:** Way lower costs than traditional cloud providers, which mattered a lot for a bootstrapped team
+
 **Global Reach:** Better performance for users everywhere thanks to distributed resources
+
 **Flexible Scaling:** We could adjust resources based on what we actually needed, not what some pricing tier demanded
+
 **Aligned Incentives:** Infrastructure built by developers who actually get what we're trying to do
 
 The integration went smoother than we expected, which meant we could focus on building our platform instead of fighting with infrastructure APIs.
