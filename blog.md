@@ -1,8 +1,18 @@
+---
+title: "Introducing Inferia: Deploy Any AI Model in Under 60 Seconds"
+description: "How we built the fastest, simplest AI model deployment platform – and why it matters for developers everywhere"
+author:
+  name: "The Inferia Team"
+  image: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&h=100&fit=crop&crop=face"
+  bio: "Building the infrastructure layer for the AI-powered future"
+image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=600&h=400&fit=crop"
+date: "2024-12-20"
+tags: ["AI", "Deployment", "Infrastructure", "Platform"]
+---
+
 # Introducing Inferia: Deploy Any AI Model in Under 60 Seconds
 
 *How we built the fastest, simplest AI model deployment platform – and why it matters for developers everywhere*
-
----
 
 As developers at Inferia, we've heard the same story countless times: a developer with a brilliant AI idea, ready to change the world, spending weeks wrestling with deployment infrastructure instead of building their actual product. We've watched talented engineers abandon promising projects because they hit the deployment wall – the point where innovation stops and DevOps nightmares begin.
 
@@ -55,7 +65,6 @@ Instead of throwing users into the overwhelming sea of Hugging Face models, we'v
 
 ![Model families interface](https://github.com/user-attachments/assets/080170aa-5cef-482b-a77c-a8efaa5df7dd)
 
-
 But we didn't stop there. You can still access Hugging Face's entire catalog – we just make the popular choices easier to find.
 
 ### Step 3: Intelligent Configuration
@@ -71,9 +80,10 @@ This is where our platform really shines. Instead of presenting users with dozen
 Advanced users can still customize everything, but beginners get production-ready configurations out of the box.
 
 ### Step 4: Transaction Approval
-You'll see a pop-up on your screen. Just click approve:                                      
 
-<img width="346" height="617" alt="image" src="https://github.com/user-attachments/assets/ca916818-b428-4e34-b46a-51245cc1c4e5" />                       
+You'll see a pop-up on your screen. Just click approve:
+
+![Transaction approval popup](https://github.com/user-attachments/assets/ca916818-b428-4e34-b46a-51245cc1c4e5)
 
 Any remaining balance is reverted to your wallet if you decide to close the deployment prematurely.
 
@@ -176,7 +186,6 @@ Prototype and validate AI solutions quickly, then scale with confidence using ou
 
 ### Educators and Students
 Learn AI development without getting stuck on deployment complexity. Affordable pricing for educational use.
-
 
 ## Join Us in Reimagining AI Deployment
 
