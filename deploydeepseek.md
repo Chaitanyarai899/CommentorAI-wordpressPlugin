@@ -10,11 +10,11 @@ date: "2024-12-20"
 tags: ["AI", "DeepSeek", "Tutorial", "Deployment"]
 ---
 
-# How to Deploy DeepSeek-R1 on Inferia in Under 60 Seconds
+# How to Deploy DeepSeek-R1 on Inferia in just few clicks
 
 *Complete step-by-step guide to deploying DeepSeek-R1 model on Inferia platform with production-ready APIs*
 
-DeepSeek-R1 is one of the most powerful reasoning models available today, but deploying it traditionally requires complex infrastructure setup, GPU management, and extensive DevOps knowledge. With Inferia, you can have DeepSeek-R1 running in production with a fully compatible API endpoint in less than a minute.
+DeepSeek-R1 is one of the most powerful reasoning models available today, but deploying it traditionally requires complex infrastructure setup, GPU management, and extensive DevOps knowledge. With Inferia, you can have DeepSeek-R1 running in production with a fully compatible API endpoint in just a few clicks.
 
 This guide walks you through the entire process, from connecting your wallet to making your first API call.
 
