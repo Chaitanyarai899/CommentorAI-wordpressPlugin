@@ -1,15 +1,3 @@
----
-title: "How to Deploy DeepSeek-R1 on Inferia in Under 60 Seconds"
-description: "Complete step-by-step guide to deploying DeepSeek-R1 model on Inferia platform with production-ready APIs"
-author:
-  name: "The Inferia Team"
-  image: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&h=100&fit=crop&crop=face"
-  bio: "Building the infrastructure layer for the AI-powered future"
-image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=600&h=400&fit=crop"
-date: "2024-12-20"
-tags: ["AI", "DeepSeek", "Tutorial", "Deployment"]
----
-
 # How to Deploy DeepSeek-R1 on Inferia in just few clicks
 
 *Complete step-by-step guide to deploying DeepSeek-R1 model on Inferia platform with production-ready APIs*
@@ -22,6 +10,7 @@ This guide walks you through the entire process, from connecting your wallet to 
 
 - A Phantom wallet (takes 2 minutes to set up if you don't have one)
 - A small amount of SOL for the deployment (typically $0.50-2.00 for testing)
+- Some NOS tokens: Inferia is powered by the Nosana network and requires NOS tokens for compute resources. You'll need both SOL and NOS tokens in your wallet for deployment. Learn more about [NOS tokens on CoinMarketCap](https://coinmarketcap.com/currencies/nosana/)
 - Your favorite code editor or API testing tool
 
 ## Step 1: Connect Your Wallet
@@ -146,7 +135,7 @@ The control panel gives you complete visibility and control:
 
 ## Getting Your Refund
 
-Finished testing early? No problem. Click "Shutdown Deployment" and confirm. Within seconds, unused time is calculated and SOL is returned to your wallet automatically.
+Finished testing early? No problem. Click "Shutdown Deployment" and confirm. Within seconds, unused time is calculated, SOL and Nos are returned to your wallet automatically.
 
 ![Refund confirmation](https://github.com/user-attachments/assets/a4ef221c-0f22-4e7d-b229-01eaafd9c385)
 
